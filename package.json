@@ -1,0 +1,23 @@
+{
+  "name": "ajustes",
+  "version": "1.0.0",
+  "description": "Aplicando mudanças sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavopxtt/GustavoPeixoto-moda-sapiente.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gustavopxtt/GustavoPeixoto-moda-sapiente/issues"
+  },
+  "homepage": "https://github.com/Gustavopxtt/GustavoPeixoto-moda-sapiente#readme",
+  "dependencies": {
+    "node-sass": "^7.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
